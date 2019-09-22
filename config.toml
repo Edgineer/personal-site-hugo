@@ -1,0 +1,40 @@
+baseURL = "localhost:1313"
+languageCode = "en-us"
+title = "Casa Edgineer"
+theme = "hugo-lodi-theme"
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+[params]
+    theme_color = "#DD574C"
+    description = "Portfolio for Edgar Lopez, Software Developer"
+    favicon = "favicon.png"
+    logo = "logo.png"
+    email = "elopez42@ucla.edu"
+    linkedin = "https://www.linkedin.com/in/elopez42"
+    github = "edgineer"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+  enable = true
+  avatar = "avatar.jpg"
+  subtitle = "Hi! I'm Edgar, a Software Developer from Los Angeles."
+  hero_right = [
+    "I'm finishing my Bachelor's degree in Computer Science at the University of California, Los Angeles expecting to graduate in June 2020.",
+    "**Currently seeking for a new grad role in software engineering, feel free to reach out!**"
+  ]
+  resume = "ResumeElopez.pdf"
+
+[params.process]
+    enable = false
+    title = "My Process"
+    subtitle = "Full Process Design"
+
+[params.case_studies]
+    enable = false
+    title = "Case Studies"
+    subtitle = "Selected Works"
+
+[params.footer]
+    enable = true
