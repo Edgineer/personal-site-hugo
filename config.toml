@@ -1,8 +1,9 @@
-baseURL = "localhost:1313"
+baseURL = "https://edgineer.github.io/"
 languageCode = "en-us"
 title = "Casa Edgineer"
 theme = "hugo-lodi-theme"
 googleAnalytics = "UA-XXXXXXXX-Y"
+publishDir = "edgineer.github.io"
 
 [params]
     theme_color = "#DD574C"
