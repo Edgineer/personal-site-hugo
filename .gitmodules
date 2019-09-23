@@ -1,0 +1,3 @@
+[submodule "edgineer.github.io"]
+	path = edgineer.github.io
+	url = https://github.com/Edgineer/edgineer.github.io.git
